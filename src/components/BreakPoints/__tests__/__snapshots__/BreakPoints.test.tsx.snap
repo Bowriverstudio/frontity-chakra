@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Frontity Chakra Ui - Breakpoints Breakpoints 1`] = `
+<span
+  className="chakra-badge css-19z746w"
+/>
+`;
